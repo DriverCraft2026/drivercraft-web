@@ -1,0 +1,20 @@
+# Prevent Next.js RSC payload files from ever being shown as pages.
+/index.txt  /  301!
+/aventura.txt  /aventura  301!
+/aventura/index.txt  /aventura  301!
+/compendio.txt  /compendio  301!
+/compendio/index.txt  /compendio  301!
+/comunidad.txt  /comunidad  301!
+/comunidad/index.txt  /comunidad  301!
+/desafios.txt  /desafios  301!
+/desafios/index.txt  /desafios  301!
+/legado.txt  /legado  301!
+/legado/index.txt  /legado  301!
+/rangos.txt  /rangos  301!
+/rangos/index.txt  /rangos  301!
+/sistemas.txt  /sistemas  301!
+/sistemas/index.txt  /sistemas  301!
+/staff.txt  /staff  301!
+/staff/index.txt  /staff  301!
+/votar.txt  /votar  301!
+/votar/index.txt  /votar  301!

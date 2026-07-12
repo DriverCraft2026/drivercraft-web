@@ -1,0 +1,21 @@
+DRIVERCRAFT WEB - BASE LIMPIA Y SEGURA
+
+Esta carpeta NO incluye node_modules, .next, out ni .git.
+El archivo .gitignore ya está configurado para impedir que esas carpetas se suban a GitHub.
+
+COMANDOS DE PRUEBA:
+cd C:\Dev\drivercraft-web
+npm install
+npm run build
+
+COMANDOS PARA CONECTAR CON GITHUB DESDE CERO:
+git init
+git branch -M main
+git remote add origin https://github.com/DriverCraft2026/drivercraft-web.git
+git add .
+git commit -m "DriverCraft Web limpia y estable"
+git push -u origin main --force
+
+NETLIFY:
+Build command: npm run build
+Publish directory: out
